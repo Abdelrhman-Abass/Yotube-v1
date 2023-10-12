@@ -1,57 +1,43 @@
 # Youtube-React-Clone V1
 
-![Design preview for the Tip calculator app coding challenge]()
+![Design preview for the Tip calculator app coding challenge](./design/First.png)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
+Thanks for checking out this coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this tip calculator app and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Calculate the correct tip and total cost of the bill per person
-
-
-### Links
-
-- Live Site URL: [live site here](https://abdelrhman-abass.github.io/Tip-calculator-app-solution/)
-
+- Make youtube clone using Reactjs MUI UI Redux Rapid API
+- Search Functionality
+- Make a Video Page and Channel Page 
+- Design a Loader 
+- A Sticky Dynamic Navbar
+- Responsive Layouts (Mobile, Tablet & Desktop Viewport)
+- Add Dynamic SideBar
 
 ## Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- React js
+- MUI UI
+- Redux
+- React-Router
 - Desktop-first workflow
-- Javascript
+- Axios
 - parcel NPM packge mangager
 
+### Design Overview
+##### SideBar ![Design preview ](./design/Coding.png)
+##### Channel Detail ![Design preview ](./design/Page.png)
+##### Video Detail ![Design preview ](./design/Quran.png)
+##### Search ![Design preview ](./design/Search.png)
 
-
-## Author
-
-- Frontend Mentor - [@Abdelrhman-Abass](https://www.frontendmentor.io/profile/Abdelrhman-Abass)
-
-
-
-
-# Getting Started with App
-## Available Scripts
+### Getting Started with App
+#### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+##### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
